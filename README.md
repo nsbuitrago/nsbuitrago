@@ -1,5 +1,5 @@
 ## Hey there, friends 👋🏽
-
+```
 class Bioengineer:
     def __init__(self, name, about, code, contact):
         self.name = name
@@ -15,3 +15,4 @@ nb = Bioengineer(
                'Twitter': '@NSBuitrago',
                'Mail': 'mail@nsbuitrago'}
 )
+```
