@@ -1,8 +1,17 @@
 ## Hey there, friends 👋🏽
 
-I'm Nicolas, an NIH PREP scholar and research assistant at the [Albert Einstein College of Medicine](https://einstein.yu.edu/)
+class Bioengineer:
+    def __init__(self, name, about, code, contact):
+        self.name = name
+        self.about = about
+        self.code = code
+        self.contact = contact
 
-I'm currently working on
-- engineering microglia to deliver biologics to the brain 🧫 🧠
-- training a fractional deep backpropagation neural network for computer aided design of novel proteins 💻 🧬
-- learning about web development (oof) 🕸
+nb = Bioengineer(
+    name = 'Nicolas',
+    about = 'Postbacc Research Scholar @ Einstein',
+    code = ['Python', 'Matlab', 'Javascript'],
+    contact = {'Homepage': 'nsbuitrago.com',
+               'Twitter': '@NSBuitrago',
+               'Mail': 'mail@nsbuitrago'}
+)
