@@ -9,10 +9,10 @@ class Bioengineer:
 
 nb = Bioengineer(
     name = 'Nicolas',
-    about = 'Postbacc Research Scholar @ Einstein',
+    about = 'Ph.D. student @ Rice',
     code = ['Python', 'Matlab', 'Javascript'],
     contact = {'Homepage': 'nsbuitrago.com',
                'Twitter': '@NSBuitrago',
-               'Mail': 'mail@nsbuitrago'}
+               'Mail': 'mail@nsbuitrago.com'}
 )
 ```
