@@ -1,7 +1,7 @@
 ## Hey there, friends 👋🏽
 ```python3
 class Bioengineer:
-    def __init__(self, name, about, code, contact):
+    def __init__(self, name, bio, code, contact):
         self.name = name
         self.bio = bio
         self.code = code
