@@ -1,16 +1,16 @@
 ## Hey there, friends 👋🏽
-```
+```python3
 class Bioengineer:
     def __init__(self, name, about, code, contact):
         self.name = name
-        self.about = about
+        self.bio = bio
         self.code = code
         self.contact = contact
 
 nb = Bioengineer(
     name = 'Nicolas',
-    about = 'Ph.D. student @ Rice',
-    code = ['Python', 'Matlab', 'Javascript'],
+    bio = 'Ph.D. student @ Rice',
+    code = ['Python', 'JS', 'C++'],
     contact = {'Homepage': 'nsbuitrago.com',
                'Twitter': '@NSBuitrago',
                'Mail': 'mail@nsbuitrago.com'}
