@@ -1,5 +1,6 @@
-## Hey there, friends 👋🏽
 ```python3
+# hey there, friends
+
 class Bioengineer:
     def __init__(self, name, bio, code, contact):
         self.name = name
