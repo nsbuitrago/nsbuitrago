@@ -1,5 +1,5 @@
 ```python3
-# hey there, friends
+# hey there, friends!
 
 class Bioengineer:
     def __init__(self, name, bio, code, contact):
@@ -10,10 +10,10 @@ class Bioengineer:
 
 nb = Bioengineer(
     name = 'Nicolas',
-    bio = 'Ph.D. student @ Rice',
-    code = ['Python', 'JS', 'C++'],
-    contact = {'Homepage': 'nsbuitrago.com',
+    bio = 'Ph.D. student, Synthetic Biology + Machine Learning',
+    code = ['Python', 'GO', 'R', 'MATLAB', 'JS'],
+    contact = {'Homepage': 'nsbuitrago.xyz',
                'Twitter': '@NSBuitrago',
-               'Mail': 'mail@nsbuitrago.com'}
+               'Mail': 'nsb5 [at] rice [dot] edu'}
 )
 ```
