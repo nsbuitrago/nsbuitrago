@@ -13,7 +13,7 @@ class Bioengineer:
 nb = Bioengineer(
     name = 'Nicolas',
     bio = 'Ph.D. student, Synthetic Biology + Machine Learning',
-    code = ['Python', 'GO', 'JS', 'C/C++'],
+    code = ['Python', 'Rust', 'GO', 'TS/JS', 'C/C++'],
     contact = {
         'Homepage': 'nsbuitrago.xyz',
         'Twitter': '@NSBuitrago',
