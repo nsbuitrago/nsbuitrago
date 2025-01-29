@@ -16,7 +16,7 @@ nb = Bioengineer(
     code = ['Python', 'Rust', 'GO', 'TS/JS', 'C/C++'],
     contact = {
         'Homepage': 'nsbuitrago.xyz',
-        'Twitter': '@NSBuitrago',
+        'BlueSky': '@nsbuitrago.xyz',
         'Mail': 'nsb5 [at] rice [dot] edu'
     }
 )
